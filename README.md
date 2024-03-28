@@ -15,7 +15,7 @@ README.md: This file providing an overview of the project.
 
 
 Clone the repository to your local machine:
-git clone https://github.com/your-username/titanic-survival-prediction.git
+git clone https://github.com/dj1550/Titanic-Survival-prediction.git
 
 
 Follow the instructions in the notebook to preprocess the data, train the model, evaluate its performance, and make predictions.
