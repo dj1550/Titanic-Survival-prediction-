@@ -22,7 +22,7 @@ Follow the instructions in the notebook to preprocess the data, train the model,
 
 ## Dependencies
 
-Python (>=3.6)
+Python 
 
 Google colab
 
